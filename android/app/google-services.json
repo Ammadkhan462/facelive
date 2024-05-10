@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "441691791355",
+    "project_id": "listintolist",
+    "storage_bucket": "listintolist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441691791355:android:77ccd98a35e8864b46b55e",
+        "android_client_info": {
+          "package_name": "com.facelive.facelive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByq2Hq9neRxjrKoybUFwx4p0A8g162okY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441691791355:android:c278663fc46da13546b55e",
+        "android_client_info": {
+          "package_name": "com.listintolist.listintolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByq2Hq9neRxjrKoybUFwx4p0A8g162okY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
